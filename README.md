@@ -7,7 +7,7 @@ linked to a particular transaction.
 
 Some Examples:
 
-Request: PUT /transactionservice/transaction/10 
+Request: PUT /transactionservice/transaction/10  </br>
 Body: { "amount": 5000, "type":"cars" }
 Response: { "status": "ok" }
 
